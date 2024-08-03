@@ -1,0 +1,304 @@
+{
+  "products": [
+    {
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": "10",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "categoryId": 3,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "categoryId": "2",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "title": "Mens Casual Premium Slim Fit T-Shirts 2",
+      "price": "2444",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Sol_id stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "categoryId": "3",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "categoryId": "1",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "categoryId": "2",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "title": "Mens Casual Premium Slim Fit T-Shirts 2",
+      "price": "2444",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Sol_id stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "categoryId": "qqq",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "categoryId": "3",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "categoryId": "2",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "title": "Mens Casual Premium Slim Fit T-Shirts 2",
+      "price": "2444",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Sol_id stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "categoryId": 1,
+      "id": 7
+    },
+    {
+      "title": "Mens Casual Premium Slim Fit T-Shirts 2",
+      "price": "2444",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Sol_id stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "categoryId": 1,
+      "id": 8
+    },
+    {
+      "title": "Mens Casual Premium Slim Fit T-Shirts 2",
+      "price": "2444",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Sol_id stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "categoryId": 1,
+      "id": 9
+    },
+    {
+      "title": "test",
+      "price": "1000",
+      "image": "test2aaa",
+      "description": "okokok",
+      "categoryId": 1,
+      "id": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Loại 1",
+      "description": "Good1"
+    },
+    {
+      "id": 2,
+      "name": "Loại 2",
+      "description": "Good2"
+    },
+    {
+      "id": 3,
+      "name": "Loại 3",
+      "description": "Good3"
+    }
+  ],
+  "users": [
+    {
+      "email": "kien1@gmail.com",
+      "password": "$2a$10$H8GrSLGPC0DLhpFZnA12ruk1RwNYfZCseNaYYnVT07vQlYf2wvMjq",
+      "username": "kien1@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "daotrungkien@gmail.com",
+      "password": "$2a$10$D1GkW6ILh6sYM3A3gOgJ9O.VNHdFN5P.2Pmrtki2Ca8jE2k3ZDgaO",
+      "username": "kien@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "daoasdas@gmail.com",
+      "password": "$2a$10$Gled8oG7qScC0YaEGz4TcOYNxLSYv240XzU9eonug6m9XB14SymVa",
+      "username": "kien@gmail.com",
+      "id": 3
+    },
+    {
+      "email": "aksdmak@gamil.com",
+      "password": "$2a$10$peLnyfRpffyJYs3Vi2FGT.ZI6.7iw.2CmFRHjv.Ln.Pid5Tq5z5yK",
+      "username": "kien@gmail.com",
+      "id": 4
+    },
+    {
+      "email": "aaadas@gamil.com",
+      "password": "$2a$10$39k2KLJhmkzta2PaZNOoleazXJgXwR97LcG5KtaUltMFjwpzIjUzC",
+      "username": "kien@gmail.com",
+      "id": 5
+    },
+    {
+      "email": "aaaaaa@gmail.com",
+      "password": "$2a$10$4DRA.mfHLoz.CdqyRYbdse5B1mKz7pu1FVflGXiAqgp0ri5dD2/7K",
+      "username": "kien@gmail.com",
+      "id": 6
+    },
+    {
+      "email": "aaa@gmail.com",
+      "password": "$2a$10$eWPDkOu6iqDzVBMYOMo54eWw0sjjIlXPpt0ybMV7k8/bs7Vx9Q7yW",
+      "username": "kien@gmail.com",
+      "id": 7
+    },
+    {
+      "email": "aa@gmail.com",
+      "password": "$2a$10$BLkqf6zjKPKfO/NIryQ41eBIF2YXBmaw6OqEdnwTtLY.xiFgLUn7y",
+      "username": "kien@gmail.com",
+      "id": 8
+    },
+    {
+      "email": "dsdafa@gmail.com",
+      "password": "$2a$10$h2tklVtddMTMuiNfv6pbSepaHDTb6l70FqZv/QvtMMdcujqU2aiFi",
+      "username": "kien@gmail.com",
+      "id": 9
+    },
+    {
+      "email": "ssssssssss@gmail.com",
+      "password": "$2a$10$zmcazqL3YbYduyGfwhODkudZJbc5xsVFFag/kySLgFrqwuPZ5DQY.",
+      "username": "kien@gmail.com",
+      "id": 10
+    },
+    {
+      "email": "aaaaaaa@gmail.com",
+      "password": "$2a$10$2.D6j2OaZiCSeIuhYc4Ar.GQham8erJCzittbhTuIYU03qpAb3EJu",
+      "username": "kien@gmail.com",
+      "id": 11
+    },
+    {
+      "email": "kkkkkk@gmail.com",
+      "password": "$2a$10$UZPU2D3R1IGc1A.xIRF8lOqzuUqL19mI3VwQqpgjNWGHsiUdPfOPi",
+      "username": "kien@gmail.com",
+      "id": 12
+    },
+    {
+      "email": "fff@gmail.com",
+      "password": "$2a$10$QxcFBrf3EDZZvHwkBEEiPuyw9DcIlsb9Z0ahdiCIZBgoAJMhV5z3i",
+      "username": "kien@gmail.com",
+      "id": 13
+    },
+    {
+      "email": "kkkk@gmail.com",
+      "password": "$2a$10$sCPX9YgpMjyXIHYPHI3BVO9/nDutYxIEiroaxBcYpRDwPMmez05Fa",
+      "username": "kien@gmail.com",
+      "id": 14
+    },
+    {
+      "email": "kkaa@gmail.com",
+      "password": "$2a$10$Gzslm2Rd9l77ydFq0N1ITuGxGrm1w8.Q7EGCdxuoj3oUa7.cZ/.cK",
+      "username": "kien@gmail.com",
+      "id": 15
+    },
+    {
+      "email": "uuuu@gmail.com",
+      "password": "$2a$10$z.tXSnth1pa0TWgWgYW45em/Fewwj4XC8MDxMb9jI.I0uRw9asP.a",
+      "username": "kien@gmail.com",
+      "id": 16
+    },
+    {
+      "email": "sssssdddd@gmail.com",
+      "password": "$2a$10$1O5oyJR70BDZK0WUR22NQedJNd5sIKCB2W/K21k6zV5WEBqxK5Shm",
+      "username": "kien@gmail.com",
+      "id": 17
+    },
+    {
+      "email": "kien2@gmail.com",
+      "password": "$2a$10$vnI488FELaEL7Qy9S0/hGuRnVOwq4QT1WHLzYcexoGczh1g2gAyou",
+      "username": "kien2",
+      "id": 18
+    },
+    {
+      "email": "kien3@gmail.com",
+      "password": "$2a$10$0ka3lyNLuhKDAGskJD7Q.eXnGpFim3GenZOEfSnsik3vt/8ftHaW6",
+      "username": "kien3",
+      "id": 19
+    },
+    {
+      "email": "kien@gmail.com",
+      "password": "$2a$10$QPryor14hhRm7R0ZdDY0LOkBp7fuUKvtTxXZhRed0qbpjWXTdRbm6",
+      "username": "kien5",
+      "id": 20
+    },
+    {
+      "email": "kien2222@gmail.com",
+      "password": "$2a$10$T/UG4M3rWZNF8XlIwmHoc.31xcKkSWDo80y7.XEQIX3vKW7nqnRGa",
+      "username": "kien@gmail.com",
+      "id": 21
+    },
+    {
+      "email": "kien3333@gmail.com",
+      "password": "$2a$10$nZHvkjE/wunXlS1cviH2ZO5XIEs3ccnb2sYcB.4K6nn1NuEx8/2ka",
+      "username": "kien@gmail.com",
+      "id": 22
+    },
+    {
+      "email": "kien333@gmail.com",
+      "password": "$2a$10$WhVpnOv4la/r1FWxe0STGOnfTyFIswVr2JJ19Kkfh8bHBAuC/fGHi",
+      "username": "kien@gmail.com",
+      "id": 23
+    },
+    {
+      "email": "kien11@gmail.com",
+      "password": "$2a$10$PAjUeuf6Cn/fX/6AkOVqeuYtbFtsGNbO0tLbJKlzW7Hew4wwtz2CW",
+      "id": 24
+    },
+    {
+      "email": "kien12@gmail.com",
+      "password": "$2a$10$reHb/LM5hYHO/eWw0oIXMOWydFXSwE2eUxnhBQyYBJ40.yhJFILVG",
+      "id": 25
+    },
+    {
+      "email": "kien13@gmail.com",
+      "password": "$2a$10$9Sv6x4T4lDxG1ovjI9TsBuz54uWQZm3OOv/V0v4mDs4ABwY7uog4e",
+      "confirmPassword": "123456",
+      "id": 26
+    },
+    {
+      "email": "kien15@gmail.com",
+      "password": "$2a$10$tjt9Fn6oDzItLOsW0eZgV.dCXOvZKAycu0/STomTOvXX2jmD28twu",
+      "confirmPassword": "123456",
+      "id": 27
+    },
+    {
+      "email": "kien16@gmail.com",
+      "password": "$2a$10$bFfy9ZNe2TtvAarvloWnCOXTvUvWmp99Zh8Dtxuufk549iAXtCTxq",
+      "confirmPassword": "123456",
+      "id": 28
+    },
+    {
+      "email": "kien17@gmail.com",
+      "password": "$2a$10$kq9eB4PQyMlq8Vo3Ms8DeOE71ahipbalc0aEiiUUf4tz2O2NCiS2e",
+      "confirmPassword": "123456",
+      "id": 29
+    },
+    {
+      "email": "kien119@gmail.com",
+      "password": "$2a$10$Ypaxen0vhK0JoMFh1fpPn.VOOM22gzqX.YGxlbV3D2Dw4tlvQ.EXS",
+      "confirmPassword": "123456",
+      "id": 30
+    },
+    {
+      "email": "kien28@gmail.com",
+      "password": "$2a$10$6lVem5SYYYdQXaBsJWsCVexWZTy.dSKRZv.SLPiJP92bn.XZHpBmO",
+      "confirmPassword": "123456",
+      "username": "Đào Trung Kiên ",
+      "id": 31
+    }
+  ]
+}
